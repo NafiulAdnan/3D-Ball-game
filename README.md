@@ -1,4 +1,6 @@
 # 3D-Ball-game
+[ There were some problems in uploading files, I'll add that soon, for now you can download and play the game from my Dropbox:]
+https://bit.ly/2Q82DD3
 It's a simple 3d game
 The exe file is the file, which you need to run to play the game.
 and the data also should be there in the same folder.
